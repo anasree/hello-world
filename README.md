@@ -1,2 +1,2 @@
 # hello-world
-this is just the begening, lets rock it.
+this is just the start, lets rock it.
